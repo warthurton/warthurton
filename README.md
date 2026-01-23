@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a rel="me" href="https://hachyderm.io/@warthurton">Mastadon</a>
+
+![GitHub Stats](./profile/stats.svg)
+
+![Wakatime Stats](./profile/wakatime.svg)
+
+---
+
+<p align="center">
+  <a rel="me" href="https://hachyderm.io/@warthurton">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
+</p>
