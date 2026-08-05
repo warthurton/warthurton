@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="395"
-        viewBox="0 0 495 395"
+        height="420"
+        viewBox="0 0 495 420"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="33.38%">
+      <svg data-testid="lang-progress" width="32.17%">
         <rect
             height="8"
             fill="#006AFF"
@@ -149,11 +149,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >2 hrs 29 mins</text>
+      >2 hrs 35 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="25.27%">
+      <svg data-testid="lang-progress" width="25.43%">
         <rect
             height="8"
             fill="#006AFF"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="13.3%">
+      <svg data-testid="lang-progress" width="12.82%">
         <rect
             height="8"
             fill="#006AFF"
@@ -199,7 +199,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="10.66%">
+      <svg data-testid="lang-progress" width="10.27%">
         <rect
             height="8"
             fill="#006AFF"
@@ -218,11 +218,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >0 hrs 49 mins</text>
+      >1 hrs 2 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="8.29%">
+      <svg data-testid="lang-progress" width="10.11%">
         <rect
             height="8"
             fill="#006AFF"
@@ -245,7 +245,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="2.2%">
+      <svg data-testid="lang-progress" width="2.12%">
         <rect
             height="8"
             fill="#006AFF"
@@ -268,7 +268,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="2.13%">
+      <svg data-testid="lang-progress" width="2.05%">
         <rect
             height="8"
             fill="#006AFF"
@@ -291,7 +291,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
-      <svg data-testid="lang-progress" width="2.09%">
+      <svg data-testid="lang-progress" width="2.02%">
         <rect
             height="8"
             fill="#006AFF"
@@ -328,12 +328,12 @@
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Autohotkey">Autohotkey:</text>
+      <text class="stat bold" y="12.5" data-testid="Batchfile">Batchfile:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >0 hrs 2 mins</text>
+      >0 hrs 3 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
@@ -351,7 +351,7 @@
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="XML">XML:</text>
+      <text class="stat bold" y="12.5" data-testid="Autohotkey">Autohotkey:</text>
       <text
         class="stat"
         x="350"
@@ -374,7 +374,7 @@
     </g>
   </g><g transform="translate(0, 275)">
     <g class="stagger" style="animation-delay: 2100ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="CSV">CSV:</text>
+      <text class="stat bold" y="12.5" data-testid="XML">XML:</text>
       <text
         class="stat"
         x="350"
@@ -397,6 +397,29 @@
     </g>
   </g><g transform="translate(0, 300)">
     <g class="stagger" style="animation-delay: 2250ms" transform="translate(25, 0)">
+      <text class="stat bold" y="12.5" data-testid="CSV">CSV:</text>
+      <text
+        class="stat"
+        x="350"
+        y="12.5"
+      >0 hrs 2 mins</text>
+      
+    <svg width="220" x="110" y="4">
+      <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#417E87"></rect>
+      <svg data-testid="lang-progress" width="2%">
+        <rect
+            height="8"
+            fill="#006AFF"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 2550ms;"
+        />
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 325)">
+    <g class="stagger" style="animation-delay: 2400ms" transform="translate(25, 0)">
       <text class="stat bold" y="12.5" data-testid="C">C:</text>
       <text
         class="stat"
@@ -412,7 +435,7 @@
             fill="#006AFF"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
-            style="animation-delay: 2550ms;"
+            style="animation-delay: 2700ms;"
         />
       </svg>
     </svg>
